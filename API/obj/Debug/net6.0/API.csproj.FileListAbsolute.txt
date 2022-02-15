@@ -241,3 +241,4 @@
 /Users/vanenkhuizen/My Drive/1. PROJECTS/DatingApp/Dev/API/obj/Debug/net6.0/ref/API.dll
 /Users/vanenkhuizen/My Drive/1. PROJECTS/DatingApp/Dev/API/obj/Debug/net6.0/API.pdb
 /Users/vanenkhuizen/My Drive/1. PROJECTS/DatingApp/Dev/API/obj/Debug/net6.0/API.genruntimeconfig.cache
+/Users/vanenkhuizen/DatingApp/API/bin/Debug/net6.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
